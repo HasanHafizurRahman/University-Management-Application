@@ -6,4 +6,8 @@
 
 # ERD Diagram
 
----
+**https://apollo-level2-web-dev.github.io/university-management-auth-service-resources/**
+
+# Project Management System - (JIRA)
+
+**https://hasanshanto1.atlassian.net/jira/software/projects/UMS/boards/1/roadmap**
